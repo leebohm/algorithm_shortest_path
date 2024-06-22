@@ -1,0 +1,36 @@
+﻿  AStar.cpp
+D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\AStar.cpp(35,34): warning C4244: '초기화 중': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\AStar.cpp(65,49): warning C4244: '=': 'const _Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\AStar.cpp(78,26): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\AStar.cpp(99,37): warning C4244: '초기화 중': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\AStar.cpp(102,31): warning C4244: '초기화 중': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+  Dijkstra.cpp
+D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\Dijkstra.cpp(25,30): warning C4244: '초기화 중': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+  GA.cpp
+D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\GA.cpp(69,5): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\GA.cpp(210,36): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\main.cpp(61,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\main.cpp(142,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  term_project_with_1000nodes_12201927_이봄.vcxproj -> D:\2024_1\algorithm\term_project_with_1000nodes_12201927_이봄\x64\Debug\term_project_with_1000nodes_12201927_이봄.exe
